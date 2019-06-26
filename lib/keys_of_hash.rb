@@ -3,5 +3,5 @@ class Hash
     array = []
   map {|key, value| argument.include?(value) ? key : nil }.compact
   end
-return array
+array
 end
