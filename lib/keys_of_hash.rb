@@ -9,7 +9,7 @@ class Hash
       end
     end
     return array
-  end	 
+  end
 end
   end
 end
